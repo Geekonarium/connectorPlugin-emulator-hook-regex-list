@@ -1,0 +1,7 @@
+Dolphin\.exe$
+Cemu\.exe$
+mame\.exe
+pcsx2-qtx64-avx2\.exe$
+PPSSPPWindows64\.exe$
+rpcs3\.exe$
+retroarch\.exe$
